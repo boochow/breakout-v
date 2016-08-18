@@ -26,6 +26,6 @@ hold your arduboy so as RIGHT button gets UP position.
 * B button starts the game with no sound.
 * Holding LEFT when start the game activates "demo mode".
 The racket follows the position of the ball automatically.
-To exit demo mode, press A.
+To exit demo mode, press A or B.
 * Holding RIGHT when start the game makes the game speed
 2x faster.
