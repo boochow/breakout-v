@@ -402,7 +402,7 @@ void game_move_racket()
 
   if(demo_mode) {
     racket = ball.x - (RACKETSIZE / 2);
-    if (arduboy.pressed(A_BUTTON) || arduboy.pressed(A_BUTTON)) {
+    if (arduboy.pressed(A_BUTTON) || arduboy.pressed(B_BUTTON)) {
       demo_mode = false;
     }
   }
