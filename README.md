@@ -1,7 +1,7 @@
 # breakout-v
 
 ##Description
-Simple breakout game for Arduboy.
+Simple breakout game for Arduboy. Vertical screen version.
 
 ##Instructions
 Move racket to keep the ball in the field and
