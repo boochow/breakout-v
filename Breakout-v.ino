@@ -166,7 +166,6 @@ uint8_t BlocksLeft()
 void BlocksDrawAll(){
   int8_t x,y;
   int8_t w,h;
-  int8_t c;
   int8_t i;
   
   w = BLOCKWIDTH;
