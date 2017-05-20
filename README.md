@@ -1,9 +1,9 @@
 # breakout-v
 
-##Description
+## Description
 Simple breakout game for Arduboy. Vertical screen version.
 
-##Instructions
+## Instructions
 Move racket to keep the ball in the field and
 Hit the ball to all 50 bricks.
 
@@ -15,13 +15,13 @@ hold your arduboy so as RIGHT button gets UP position.
 * Start : A button
 * Move : UP and DOWN 
 
-##Installation
+## Installation
 
 1. Download Zip or Git Clone from: https://github.com/boochow/breakout-v
 2. Open Breakout-v.ino with Arduino IDE
 3. Upload to your Arduboy
 
-##Tips
+## Tips
 
 * B button starts the game with no sound.
 * Holding LEFT when start the game activates "demo mode".
